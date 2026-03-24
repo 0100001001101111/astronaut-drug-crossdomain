@@ -11,7 +11,7 @@ We scored 10 drugs from the ISS medical kit against 1.2 million FDA adverse even
 Key findings:
 - **Pseudoephedrine** (decongestant): 16.8x cognitive enrichment, 13.5x bone/muscle — worst offender
 - **Promethazine** (anti-nausea, most commonly used space drug): enriched in all 7 domains at 2–3x each
-- **6 of 10 drugs** hit the cognitive domain hardest
+- **4 of 10 drugs** hit the cognitive domain hardest; cognitive is the highest-enriched domain overall (mean 4.3x)
 - **Modafinil** (wakefulness): 4.8x cognitive, 3.5x sleep enrichment
 
 ## Why this matters
